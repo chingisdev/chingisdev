@@ -2,7 +2,7 @@
 # Разработчик
 
 ## Мой стек технологий: 
-![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=Python&logoColor=white&color=0D1017)
+![language](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=Python&logoColor=white&color=0D1017)
 ![language](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=0D1017)
 ![language](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=0D1017)
 ![language](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=0D1017)
