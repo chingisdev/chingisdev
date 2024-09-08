@@ -7,7 +7,6 @@
 ![language](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=0D1017)
 ![language](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=0D1017)
 ![language](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=0D1017)
-![version control system](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=Git&logoColor=white&color=0D1017)
 
 <!-- Contacts -->
 
